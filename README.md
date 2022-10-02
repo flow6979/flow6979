@@ -11,7 +11,9 @@
 </a>
 <br />
 <br />
-
+<img width ="20%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
+<br />
+<br />
 <img align="left" width ="50%" src="https://github-readme-stats.vercel.app/api?username=flow6979&show_icons=true&theme=tokyonight" />
 <img align="left" src="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark" />
 
@@ -25,5 +27,5 @@
 
 <br />
 
-<img width ="20%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
+
 
