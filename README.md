@@ -16,8 +16,9 @@
 
 <img width ="19%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
 
-<hr>
 <br />
+
+### ✨ hey there 👋,Vaibhav Dixit, a prefinal student at IIT Roorkee. I am mostly into competitive programming but trying to explore development nowadays. ✨ 
 
 ## 🚀 Tech Stack -
 
