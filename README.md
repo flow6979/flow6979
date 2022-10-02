@@ -1,17 +1,16 @@
 # Hey there, i'm Vaibhav!!
 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/vwv.1d/">
+  <img align="left" alt="Vaibhav's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/vwv_1d">
+  <img align="left" alt="Vaibhav's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/vaibhav-dixit-8a337b200/">
+  <img align="left" alt="Vaibhav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
-<br />
-<img width ="20%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
+
+<img width ="14%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
 <br />
 <br />
 <img align="left" width ="50%" src="https://github-readme-stats.vercel.app/api?username=flow6979&show_icons=true&theme=tokyonight" />
