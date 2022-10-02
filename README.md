@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+### Hey there 👋, I am Vaibhav Dixit, a prefinal student at IIT Roorkee. I am mostly into competitive programming but trying to explore development nowadays. 
+
 <a href="https://www.instagram.com/vwv.1d/">
   <img align="left" alt="Vaibhav's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -14,21 +16,8 @@
   <img align="left" alt="Vaibhav's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<img width ="17%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
+<img width ="16%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
 
-<br />
-
-### ✨ hey there 👋, I am Vaibhav Dixit, a prefinal student at IIT Roorkee. I am mostly into competitive programming but trying to explore development nowadays. ✨ 
-
-## 🚀 Tech Stack -
-
-<img  align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img  align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img  align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img  align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
-
-<br />
 <br />
 <br />
 
@@ -43,7 +32,7 @@
       <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=flow6979&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br>
 
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=flow6979&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -51,14 +40,11 @@
 </p>
 
 <hr>
-<br />
 <p align=center>
       <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flow6979&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+
   <a href="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark">
-    <img width=390 align="right" src="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark" />
+    <img width=390 align="center" src="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark" />
   </a>
   </div>
  </p>
