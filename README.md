@@ -12,7 +12,7 @@
 <br />
 <br />
 
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=flow6979&show_icons=true&theme=tokyonight" />
+<img align="left" width ="54%" src="https://github-readme-stats.vercel.app/api?username=flow6979&show_icons=true&theme=tokyonight" />
 <img align="left" src="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark" />
 
 <br />
