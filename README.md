@@ -18,7 +18,7 @@
 
 <br />
 
-### ✨ hey there 👋,I am Vaibhav Dixit, a prefinal student at IIT Roorkee. I am mostly into competitive programming but trying to explore development nowadays. ✨ 
+### ✨ hey there 👋, I am Vaibhav Dixit, a prefinal student at IIT Roorkee. I am mostly into competitive programming but trying to explore development nowadays. ✨ 
 
 ## 🚀 Tech Stack -
 
