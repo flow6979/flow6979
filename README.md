@@ -12,8 +12,8 @@
 <br />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=flow6979&show_icons=true&theme=tokyonight" />
-<img align="left" src="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=flow6979&show_icons=true&theme=tokyonight" />
+<img  src="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark" />
 <br/>
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
