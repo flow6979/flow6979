@@ -28,12 +28,12 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=370 src="https://github-readme-streak-stats.herokuapp.com/?user=flow6979&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=flow6979&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br>
 
+  <a href="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark">
+    <img width=390 align="center" src="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark" />
+  </a>
+  </div>
+  <br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=flow6979&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
@@ -43,9 +43,6 @@
 <p align=center>
       <div align=center>
 
-  <a href="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark">
-    <img width=390 align="center" src="https://stats.justsong.cn/api/leetcode/?username=make_U_mine&theme=dark" />
-  </a>
   </div>
  </p>
 
