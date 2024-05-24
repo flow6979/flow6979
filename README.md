@@ -6,7 +6,7 @@
 2. Golang, MySQL, GCP, CI/CD, Kubernetes, Terraform, Docker, Datadog. <br />
 3. MongoDb, Express.js, React.js, Node.js, Typescript, JavaScript.**
 
-$${\color{lightgreen}I \space am \space very \space interested \space in \space microservices \space architecture, \space distributed \space systems \space and \space cloud \space technology.}$$	
+$${\color{lightgreen}I \space am \space very \space interested \space in \space microservice \space architectures, \space distributed \space systems, \space cloud \space technologies  \space and  \space system \space design.}$$	
 
 <img width ="16%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
 
