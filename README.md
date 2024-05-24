@@ -1,6 +1,12 @@
 ## Hey there 👋, I am Vaibhav Dixit, a final student at IIT Roorkee. 
-### I have a keen interest in software development. I am proficient in Data structure and algorithms, OOPS, Networking, and DBMS. I am a 4-star coder on Codechef(1911) and a specialist on Codeforces(1411). I have solved more than 850 questions on Leetcode.
-### My stack - React.js, Express.js, Node.js, MongoDB, C++, Typescript, Python, Go, SQL.
+### I have a keen interest in software development. I am proficient in Data structure and algorithms, Object Oriented Programming, Networking, DBMS and Operating Systems. I am a 4-star coder on Codechef(1911) and a specialist on Codeforces(1411). I have solved more than 850 questions on Leetcode.
+### My stack - 
+  I have worked with
+1. Python, Django, MariaDb, Redis, Celery, AWS S3
+2. Golang, MySQL, GCP, CI/CD, Kubernetes, Terraform, Docker, Datadog.
+3. MongoDb, Express.js, React.js, Node.js, Typescript, JavaScript.
+
+$${\color{lightgreen}I \space am \space very \space interested \space in \space microservices \space architecture, \space distributed \space systems \space and \space cloud \space technology.}$$	
 
 <img width ="16%" align="left" src="https://komarev.com/ghpvc/?username=flow6979&color=blueviolet" />
 
