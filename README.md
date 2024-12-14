@@ -1,4 +1,4 @@
-# Hey there 👋, I am Vaibhav Pravesh Dixit. 
+# I am Vaibhav Pravesh Dixit. 
 ### I like to OBSERVE and take ⚡ACTIONS⚡ to solve Problems.
 ### Interested in discussing system design, architecture planning and algorithms.
 
