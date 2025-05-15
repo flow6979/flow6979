@@ -1,5 +1,15 @@
-# I am Vaibhav Pravesh Dixit, graduated from IIT Roorkee.
-### Interested in discussing AI, System Design, Architecture Planning & Algorithms.
+# Hi, I'm **Vaibhav Pravesh Dixit**, 🎓 an **IIT Roorkee** Graduate.
 
-# Veni Vidi Vici 
+### Interests
+
+- 🤖 **Software Product Development & AI**  
+- 🏗️ **System Design & Architecture Planning**  
+- 🧮 **Problem Solving & Algorithms**
+
+📫 **Reach Me At :**  vaibhav.dixit.iitr@gmail.com  
+
+---
+
+> _**"Veni. Vidi. Vici."**_  
+
 ---
