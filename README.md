@@ -1,4 +1,4 @@
-# Hi, I'm **Vaibhav Pravesh Dixit**, 🎓 an **IIT Roorkee** Graduate.
+# Hi, I'm **Vaibhav Pravesh Dixit**
 
 ### Interests
 
