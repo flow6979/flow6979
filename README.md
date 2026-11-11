@@ -9,8 +9,9 @@ Software engineer [@browserstack](https://github.com/browserstack) · IIT Roorke
 |---|---|
 | [**dispatch**](https://github.com/flow6979/dispatch) | Send a coding task from your phone. Claude Code runs it on your own machine and opens a draft PR. Shows live token and $ cost, with a hard budget cap and model routing. |
 | [**agentic-ai-handbook**](https://github.com/flow6979/agentic-ai-handbook) | LLM-agnostic agents from zero to production: ReAct, RAG, web agents, MCP/A2A, multi-agent systems. Code, concepts and tests, in Hinglish + English. |
-| [**Agent Lab**](https://flow6979.github.io/viewinter/#/agents) | Runs the handbook's real Python agents in your browser with Pyodide. No server, bring your own key (Gemini, Groq, OpenAI, Claude). |
-| [**viewinter**](https://github.com/flow6979/viewinter) | Interview prep for system design, LLD and agentic AI, with Gemini-powered mock interviews. |
+| [**viewinter**](https://github.com/flow6979/viewinter) | Interview prep for system design, LLD and agentic AI, with Gemini-powered mock interviews. Includes Agent Lab, which runs the handbook's Python agents in your browser with Pyodide. |
+| [**proofheal**](https://github.com/flow6979/proofheal) | Self-healing end-to-end tests that only accept a repair they can prove. An LLM agent proposes new locators, and each one is replayed in a fresh browser and checked before it's accepted. Heals a renamed button, refuses to hide a broken checkout. |
+| [**root**](https://github.com/flow6979/root) | Android app that acts like a friend, helping young people break the doomscroll, junk-food and late-night loop. Has an AI reflection and voice companion (Groq Llama, Whisper, or your own Gemini key), a screen-time shield and AI-written stories. |
 
 ### Open source
 
