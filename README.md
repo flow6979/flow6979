@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav Pravesh Dixit
+# Hi, I'm Vaibhav Dixit
 
 I build **LLM agents and the tooling around them**: tool calling, agent loops, MCP, evals, and making agents cheap and safe enough to run for real.
 Software engineer [@browserstack](https://github.com/browserstack) · IIT Roorkee '24 · India
